@@ -2,19 +2,28 @@
     # example
 
     ## Description
-    it does studd
+    stuff
 
     ## Table of Contents
 
     * [Installation](#installation)
     * [Usage](#usage)
     * [Contributing](#contributing)
-    * [Test](#test)
+    * [Tests](#tests)
     * [Questions](#questions)
 
     ## Installation
 
     To install neccessary dependancies, run the following command:
 
-    
+    ## Usage 
+
+
+    ## Contributing
+
+
+    ## Tests
+
+
+    ## Questions
     
